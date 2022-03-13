@@ -1,4 +1,4 @@
 nội dung mới git
 nội dung mới đầu sever
 thêm data mới
-thay đổi nội dung trên máy 2
+thay đổi data trên máy 2
