@@ -3,3 +3,5 @@ nội dung mới đầu sever
 thêm data mới
 thay đổi data trên máy 2
 thay đổi data trên máy 1
+
+thay đổi nội dung trên máy 1 lần 2
