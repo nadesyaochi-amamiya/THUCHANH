@@ -1,4 +1,8 @@
 nội dung mới git
 nội dung mới đầu sever
 thêm data mới
+<<<<<<< HEAD
 thay đổi data trên máy 2
+=======
+thay đổi data trên máy 1
+>>>>>>> 741412d1b8e2302cc82c97ec0eb0e6a54d80aef1
