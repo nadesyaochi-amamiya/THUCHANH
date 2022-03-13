@@ -6,3 +6,5 @@ thay đổi data trên máy 1
 
 thay đổi nội dung trên máy 2 lần 2
 thay đổi nội dung trên máy 1 lần 2
+
+thay đổi nội dung trên máy 2 lần 3
